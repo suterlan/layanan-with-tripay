@@ -1,2 +1,2 @@
 # layanan-with-tripay
-Aplikasi pembayaran dengan paymant gateaway Tripay
+Aplikasi layanan dengan metode pembayaran payment gateway Tripay
